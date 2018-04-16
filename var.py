@@ -26,8 +26,5 @@ photocells=3
 #global
 global keyword_ok
 
-#vita path
-vita_path="/home/pi/vita"
-#plugin path
-plugin_path=vita_path+"/plugins/"
-global plugins
+#charly path
+charly_path="/home/pi/charly"

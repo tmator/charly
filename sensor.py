@@ -19,7 +19,7 @@ class Sensor():
         
     def is_someone(self):
         """
-        is there some in front or vita ?
+        is there some in front or charly ?
         
         get values from IR sensor
         if someone return True, else return False

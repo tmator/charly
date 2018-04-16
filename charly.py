@@ -25,7 +25,7 @@ def main():
     
     wk=stt.Stt("keyword")
     voice=tts.Tts()
-    voice.say("vita fait pouet pouet")
+    voice.say("charly fait pouet pouet")
 
     done = False
     
@@ -55,7 +55,6 @@ def main():
             #if (debug):
             #    print("no one")
             
-        pygame.display.flip()
 
     exit()
 if __name__ == '__main__':
